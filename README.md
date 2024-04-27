@@ -1,0 +1,1 @@
+Si quiere cambiar el diseño del juego, vete a la clase DesignModifiers y quita una de las lineas comentadas que estan creando objetos Halloween, Christmas y DiaDeMuertos, y haz las demas comentarios (SOLO TIENE QUE QUEDAR UNA LINEA DESCOMENTADA).
